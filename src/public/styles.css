@@ -1,0 +1,73 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+canvas {
+  display: block;
+}
+.content {
+  position: relative;
+}
+.colors {
+  position: absolute;
+  top: 5px;
+  padding: 10px;
+}
+.color-1 {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border: 0px;
+  border-radius: 50%;
+  outline: none;
+}
+.color-2 {
+  width: 30px;
+  height: 30px;
+  background-color: yellowgreen;
+  border: 0px;
+  border-radius: 50%;
+  outline: none;
+}
+.color-3 {
+  width: 30px;
+  height: 30px;
+  background-color: blue;
+  border: 0px;
+  border-radius: 50%;
+  outline: none;
+}
+.color-4 {
+  width: 30px;
+  height: 30px;
+  background-color: yellow;
+  border: 0px;
+  border-radius: 50%;
+  outline: none;
+}
+.color-5 {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border: 0px;
+  border-radius: 50%;
+  outline: none;
+}
+.btn-delete {
+  width: 30px;
+  height: 30px;
+  border-color: black;
+  color: red;
+  border: 0px;
+  border-radius: 50%;
+  outline: none;
+}
+#users {
+  position: absolute;
+  top: 5px;
+  padding: 10px;
+  margin-left: 80%;
+  font-size: 20px;
+  color: green;
+}
